@@ -1,7 +1,9 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![github-header-image (1)](https://github.com/venezik/venezik/assets/35588047/476a5d62-308b-435d-a3a9-29af8a86bab4)
 
 ### Hi there 👋
-
+I am an aspiring Software Engineer. I have always been passionate about technology and ultimately decided to major in Computer Science.
+- 🌱 I’m currently learning SWIFT and JavaFX
+- ⚡ Fun fact: because I'm Russian, during my school years, kids called me a Russian Hacker, so I decided to become a developer.
 <!--
 **venezik/venezik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
